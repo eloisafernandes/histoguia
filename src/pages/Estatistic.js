@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Sidebar from "../components/Menu.js";
 import  Card  from "../components/Home/Card.js";
-import LineChart from "../components/Home/LineChart.js";
+/*import LineChart from "../components/Home/LineChart.js";*/
 
 function Estatistic() {
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
